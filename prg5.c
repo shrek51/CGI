@@ -1,3 +1,5 @@
+// Develop a program to demonstrate 3D transformation on 3D objects
+
 #include <GL/glut.h>
 float ambient[] = {1, 1, 1, 1};
 float light_pos[] = {2, 2, 2, 1};
